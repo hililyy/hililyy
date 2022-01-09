@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=asci)](https://solved.ac/joun46)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=asci)](https://solved.ac/joun46)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hililyy)](https://github.com/anuraghazra/github-readme-stats)

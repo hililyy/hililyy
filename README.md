@@ -1,11 +1,19 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=fedce6&height=200&section=header&text=Joeun%20Kang&fontSize=50)
+<h3 align="center">📚 Studying 📚</h3>
+<p align="center">
+   <img src="https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/ObejctiveC-dac0e8?style=flat-square&logoColor=white"/></a>
+<br>
 
-<!-- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhililyy%2Fhit-counter&count_bg=%23FF9400&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
- -->
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=joun46)](https://solved.ac/joun46)
+</p>
+<h3 align="center">🐰 To Me 🐰</h3>
+<p align="center">
+  <a href="https://hilily.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+    
+  <a href="mailto:joun406@gmail.com">
+    <img src="https://img.shields.io/badge/joun406@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=joun406@gmail.com"/>
+  </a>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hililyy)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hililyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![header](https://capsule-render.vercel.app/api?type=waving&color=fedce6&height=100&section=footer)

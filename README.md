@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=fedce6&height=200&section=header&text=Joeun%20Kang&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=fedce6&height=200)
+<h1 align="center">Kang Joeun</h1>
 <h3 align="center">📚 Studying 📚</h3>
 <p align="center">
    <img src="https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white"/></a>

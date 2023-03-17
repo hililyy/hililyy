@@ -4,7 +4,6 @@
 <p align="center">
    <img src="https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/ObejctiveC-eadcf4?style=flat-square&logoColor=white"/></a>
 <br>
 
 </p>

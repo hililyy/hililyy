@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=fedce6&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=fedce6)
 <h1 align="center">🤍 Kang Joeun 🤍</h1>
 <h3 align="center">📚 Studying 📚</h3>
 <p align="center">

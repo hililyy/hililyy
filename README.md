@@ -10,12 +10,12 @@
 
 ### Hi I'm Joeun Kang 👋🏻 </br></br>
 
-#### 📚 Studying 📚
+### 📚 Studying 📚
 <img src="https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>
 </br></br>
 
-#### ✨ Activity ✨
+### ✨ Activity ✨
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hililyy&theme=buefy&show_icons=true)</br></br>
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=joun46)](https://solved.ac/joun46) 
 </br></br>

@@ -21,5 +21,3 @@
 </br></br>
 
 </div>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=fedce6&height=100&section=footer)

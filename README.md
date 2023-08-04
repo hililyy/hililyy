@@ -1,11 +1,10 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=hililyy&label=🤍&color=fedce6&style=flat-square)
 [![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=joun46)](https://solved.ac/joun46)
 <a href="https://hilily.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 <a href="mailto:joun406@gmail.com"><img src="https://img.shields.io/badge/joun406@gmail.com-4794ee?style=flat-square&logo=Gmail&logoColor=white&link=joun406@gmail.com"/></a> 
 
-### Hi I'm Joeun Kang 👋🏻 </br></br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=35&pause=1000&color=BE99CCFF&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Hi,+I'm+Joeun+Kang)](https://git.io/typing-svg)
 
 ### 📚 Studying 📚
 <img src="https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white"/></a>
